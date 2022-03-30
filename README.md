@@ -3,7 +3,7 @@
 - i love using javascript as it boasts unlimited capablities😁😋 ..i also love using other languages listed below.
 - i'm currently interested in javascript, php, sql, design, seo.😎😎
 - you can contact me @ drakejoshua086@gmail.com or,
-- Github - [@drakejoshua](https://github.com/drakejoshua) .. do well, to send a gist i'm bored .. i'll reply asap
+- Github - [@drakejoshua](https://github.com/drakejoshua) .. do well, to start a gist i'm bored .. i'll reply asap
 
 ## My Naming Schemes
 - in my repo's, you may see ---p ( it stands for a repo containing a project i wrote in only css and html, not a full fledged website but still passes
