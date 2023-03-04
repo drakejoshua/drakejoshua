@@ -1,6 +1,6 @@
 # Hey There :wave: :wave:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=courier+bold&weight=900&size=25&pause=1000&background=000000&vCenter=true&width=700&lines=I'm+Joshua+Mabawonku%F0%9F%91%8B;I'm+a+web+software+developer;I'm+also+web+software+designer;I'm+based+in+lagos%2C+Nigeria;I+build+web+software;I+also+design+web+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=courier+bold&weight=900&size=25&pause=1000&background=000000&vCenter=true&width=700&lines=I'm+Joshua+Mabawonku%F0%9F%91%8B;I'm+a+web+software+developer;I'm+also+a+web+software+designer;I'm+based+in+lagos%2C+Nigeria;I+build+web+software;I+also+design+web+software)](https://git.io/typing-svg)
 
 <br>
 
